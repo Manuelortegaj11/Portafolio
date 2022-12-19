@@ -1,0 +1,53 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/ListadoOrdenes.gif",
+            "title": "InstaYA App 📦",
+            "bodyText": "- Gestión de paquetes\n -  Uso de inicio de sesión para clientes.\n - Uso de registro para clientes.\n - Uso de validaciones\n - Uso del CRUD.",
+            "links": [
+                {
+                    "text": "GitHub |Frontend|",
+                    "href": "https://github.com/Manuelortegaj11/Frontend_misiontic"
+                },
+                {
+                    "text": "GitHub |Backend|",
+                    "href": "https://github.com/Manuelortegaj11/Backend_misiontic"
+                }
+                
+            ],
+            "tags" : [
+                "VScode",
+                "JavaScript",
+                "ReactJs",
+                "NodeJs",
+                "Express",
+                "MongoDB",
+                "DigitalOcean"
+            ]
+        },
+        {
+            "image" : "images/projects/DB.gif",
+            "title": "DB Champions League ⚽",
+            "bodyText": "- Extracción de requisitos de UEFA.COM.\n - Uso del modelo entidad-relación con ERD PLUS.\n - Uso del modelo lógico de datos con Diagram.io.\n - Uso de reglas de normalización.\n - Creación de scripts para crear la base de datos en pgadmin.\n - Uso de script para la creación de vistas y procedimientos.\n - Documentar procesos en Word y Excel.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Manuelortegaj11/PROJECT_DB_CHAMPIONSLEAGUE"
+                }
+            ],
+            "tags" : [
+                "Pgadmin 4",
+                "Word",
+                "ERD+",
+                "PostgreSQL 14",
+                "Diagram.io",
+                "Nvim",
+                "Excel"
+            ]
+        }
+
+
+    ]   
+}
+
+        

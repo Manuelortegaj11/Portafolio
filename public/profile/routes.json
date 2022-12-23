@@ -16,6 +16,11 @@
             "headerTitle": "Educación"
         },
         {
+            "component": "Certifications",
+            "path": "/Certificaciones",
+            "headerTitle": "Certificaciones"
+        },
+        {
             "component": "Experience",
             "path": "/Experiencia",
             "headerTitle": "Experiencia"
